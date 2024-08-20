@@ -1,0 +1,59 @@
+h1{
+    margin: 0 0 50px 0;
+    padding: 20px 0;
+    font-size: 30px;
+    color: white;
+    background-color: green;
+    text-align: center;
+}
+.content{
+    margin-left: 20px;
+}
+ol li{
+    margin: 0 0 20px 0;
+    font-size: 18px;
+    font-weight: 600;
+}
+.btn:focus, .btn:active{
+    box-shadow: none !important;
+}
+.btn{
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+h3{
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: tomato;
+}
+
+#panel, #flip {
+    padding: 5px;
+    font-size: 18px;
+    text-align: center;
+    background-color: #ededed;
+    color: black;
+    border: solid 1px #666;
+    border-radius: 3px;
+}
+#flip{
+    margin-top: 10px;
+}
+#panel {
+    padding: 50px;
+    display: none;
+}
+
+ul li{
+    margin-bottom: 2px;
+}
+#number{
+    margin: 10px 0 0 0;
+}
